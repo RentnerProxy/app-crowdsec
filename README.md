@@ -1,2 +1,2 @@
-Hier entsteht die optionale CrowdSec-App für RentnerProxy.
-Sie wird CrowdSec-Anbindung, Betrieb und Sicherheitsübersicht bereitstellen.
+This repository will contain an optional CrowdSec app for RentnerProxy.
+It will provide CrowdSec integration, service management, and a security dashboard.
